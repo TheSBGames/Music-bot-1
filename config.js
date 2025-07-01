@@ -3,7 +3,7 @@ module.exports = {
   ownerID: ["1004206704994566164", ""],
   botInvite: "",
   supportServer: "",
-  mongodbURL: "mongodb+srv://TheSBGanes:<db_password>@discordbot.bfyeg5t.mongodb.net/?retryWrites=true&w=majority&appName=Discordbot",
+  mongodbURL: "mongodb+srv://TheSBGanes:sarthakbavishi07@discordbot.bfyeg5t.mongodb.net/?retryWrites=true&w=majority&appName=Discordbot",
   status: '/help',
   commandsDir: './commands',
   language: "en",
